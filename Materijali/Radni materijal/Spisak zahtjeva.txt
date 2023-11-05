@@ -1,0 +1,101 @@
+KORISNICI
+-----------------
+Prijava na korisnički nalog - 
+Odjava sa korisničkog naloga -
+Evidentiranje obavještenja -
+
+STRANKE 
+------------------
+Registracija naloga pomoću dobijenog JKP a -
+
+PREDSJEDNIK SUDA
+------------------
+Kreiranje predmeta -
+Pregled predmeta -
+Evidentiranje izmjena u predmetu - 
+Praćenje statistike o radu suda.
+
+SEKRETAR SUDA
+------------------
+Kreiranje izvještaja -
+Slanje predmeta na elektronsko arhiviranje -
+Brisanje predmeta sa liste za arhiviranje -
+Praćenje statistike o radu suda -
+
+SUDIJA
+------------------
+Pretraga predmeta -
+Izdavanje naredbe po predmetu -
+Izdavanje dnevnih naredbi i kreiranje dokuemnta o njoj -
+Praćenje evidencije o izvršenim naredbama -
+Evidentiranje statusa predmeta i odluka - 
+Evidentiranje idućeg ročišta u okviru predmeta -
+Praćenje statistike o ličnom radu -
+Dodjeljivanje stručnih saradnika na predmetu i prava koje imaju na njemu - 
+
+STRUČNI SARADNIK ZA PODRŠKU SVJEDOCIMA
+------------------------------------------
+Pretraga predmeta -
+Pregled predmeta i spisak svjedoka -
+Detaljan uvid u dodjeljene predmete -
+Ima osnovni pregled predmeta. Sudija mu može dodjeliti detaljan prikaz pokrenutih predmeta. -
+
+REFERENT ZA UNOS PODATAKA
+-----------------------------
+Izdavanje dokumenta -
+Izdavanje uvjerenja o postupcima -
+
+REFERENT ZA UPRAVLJANJE DOKAZIMA
+----------------------------------
+Dodavanje dokaza -
+Pregled dokaza -
+Izmjene dokaza -
+Brisanje dokaza -
+Evidentiranje o kretanju dokaza -
+
+REFERENT ZA OTPREMU POŠTE
+--------------------------------
+Evidencija o pošti -
+Pretraga pošte -
+Izrada izvještaja -
+
+ARHIVAR
+---------------------------------
+Elektronsko arhiviranje dokumenta -
+Brisanje dokumenta iz arhive -
+Pregled dokumenta -
+Unos podataka o arhiviranom dokumentu -
+Pregled arhive -
+Pretraga arhive -
+Brisanje arhivirane gradje -
+
+DAKTILOGRAF
+---------------------------------
+Kreiranje podneska u ročištu -
+  Kreiranje dokumenta -
+  Prateći prilozi -
+Evidentiranje kazni u postupku -
+Evidentiranje podataka o krivičnom postupku -
+
+SUDSKI IZVRŠILAC
+---------------------------------
+Evidentiranje izlaska na teren -
+Unos zapisnika izlaska na teren -
+
+REFERENT ZA IZVRŠENJE SANKCIJA
+---------------------------------
+Evidentiranje sankcija - 
+Registracija naplate -
+
+CMS ADMINISTRATOR 
+--------------------
+Kreiranje naloga -
+Pregled naloga -
+Deaktiviranje naloga -
+Aktiviranje naloga -
+Kreiranje grupe korisnika(istražiti) -
+Promjena parametara za dodjelu predmeta -
+
+SUDSKI PRIPRAVNIK
+-----------------------
+Radnje na predmetu koje dodjeli sudija -
